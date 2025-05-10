@@ -29,7 +29,7 @@ The project is built using the MERN stack:
 - The configuration contains the `DATABASE_URL` variable and should be configured with MongoDB Atlas database URL.
 
 ## Setup Backend
-Backend service can be found [here](https://github.com/PratikSwaraj/Propall_Task_Backend). Clone/fork this repo to deploy backend service.
+Backend service can be found [here](https://github.com/PratikSwaraj/Propall_Backend). Clone/fork this repo to deploy backend service.  
 Follow the below instructions to setup the backend service:
 - Run `cd propall_backend`
 - Run `npm install`
